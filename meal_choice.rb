@@ -8,9 +8,13 @@ def breakfast(breakfast_food="frosted_flake")
   puts "Morning is the best time for #{breakfast_food}" 
 end
 breakfast()
+
+
 def lunch(lunch_food="grilled_cheese")
 puts "The lunch for today was #{lunch_food}"
 end
+
+def lunch 
 
 
 
